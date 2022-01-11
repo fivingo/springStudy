@@ -4,7 +4,7 @@
 
 <hr/>
 
-* Data structure and Algorithm Study
+* Spring Web Project Study
 * Author: LIsto [fivingo]
 * IDE: IntelliJ IDEA 2021.3.1 (Ultimate Edition)
 

@@ -13,10 +13,6 @@
 * 테스트 실패(spring-test)로 인한 보류
 
 
-
-
-
-
     java.lang.IllegalStateException: Failed to load ApplicationContext
 
 	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:132)
